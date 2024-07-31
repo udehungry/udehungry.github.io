@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://udehungry.github.io/sitemap.html.gz
+Sitemap: https://udehungry.github.io/app/sitemap.html.gz
+Sitemap: https://udehungry.github.io/assets/sitemap.html.gz
+Sitemap: https://udehungry.github.io/css/sitemap.html.gz
+Sitemap: https://udehungry.github.io/includes/sitemap.html.gz
+Sitemap: https://udehungry.github.io/item/sitemap.html.gz
+Sitemap: https://udehungry.github.io/src/sitemap.html.gz
